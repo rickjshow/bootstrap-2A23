@@ -1,27 +1,23 @@
 h1{
-    color:black;
+    color: black;
 }
 @media (min-width: 576px){
     h1{
-        color:red;
+        color: red;
     }
 }
-
 @media (min-width: 768px){
     h1{
-        color:green;
+        color: green;
     }
 }
-
 @media (min-width: 992px){
     h1{
-        color:blue;
+        color: blue;
     }
 }
-
 @media (min-width: 1200px){
     h1{
-        color:violet;
+        color: violet;
     }
 }
-
