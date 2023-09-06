@@ -1,0 +1,12 @@
+header{
+    margin: 2vh auto;
+}
+header,nav,main, .row div, .d-flex div, .d-inline-flex div{
+    background-color: #fff;
+    min-height: 10vh;
+    padding: 2vh;
+    border: 5px solid #f36528;
+}
+nav,main{
+    min-width: 82vh;
+}
